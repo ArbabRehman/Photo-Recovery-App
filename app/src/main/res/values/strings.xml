@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Photo Recovery</string>
+
+    <string name="restoring_number_format">Restored ... %d photos</string>
+    <string name="restoring_number_format_Audio">Restored ... %d Audios</string>
+    <string name="restoring_number_format_video">Restored ... %d videos</string>
+    <string name="restore_folder_path" translatable="false">RestoredPhotos</string>
+
+<!--    <string name="admob_open_ads">ca-app-pub-3940256099942544/3419835294</string>-->
+<!--    <string name="admob_banner_ads">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="admob_banner_ads">ca-app-pub-5260965996695229/8325397711</string>
+
+<!--    <string name="admob_interstitial_ads">	ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="admob_interstitial_ads">ca-app-pub-5260965996695229/3178681114</string>
+
+    <string name="app_name2">Photo Recovery</string>
+    <string name="exit_msg">Are You Sure You Want To Exit?</string>
+
+
+    <string name="exit_yes">Yes</string>
+    <string name="exit_no">No</string>
+
+
+</resources>

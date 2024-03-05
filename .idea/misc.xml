@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/drawable/rectangle.xml" value="0.117" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_album.xml" value="0.22" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_audio.xml" value="0.25" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_main.xml" value="0.19" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_other.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_other_album.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_scanning.xml" value="0.2" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/layout/activity_video_album.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/menu/album_menu.xml" value="0.175" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/menu/toolbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/PhotoRecovery_androidcode/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
